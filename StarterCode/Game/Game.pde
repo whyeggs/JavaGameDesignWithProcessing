@@ -1,6 +1,6 @@
 /* Game Class Starter File
  * Last Edit: 12/13/2022
- * Author: _____________________
+ * Authors: _____________________
  */
 
 //GAME VARIABLES
